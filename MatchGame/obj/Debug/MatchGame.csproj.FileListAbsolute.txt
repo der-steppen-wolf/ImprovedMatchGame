@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Users\User\source\repos\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+C:\Users\User\source\repos\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\App.g.cs
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+C:\Users\User\source\repos\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
